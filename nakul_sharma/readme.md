@@ -1,5 +1,5 @@
-###Hi !
+### Hi !
 
-#My name is Nakul Sharma.
+# My name is Nakul Sharma.
 
-#I have coding and designing skills. ! 
+# I have coding and designing skills. ! 
